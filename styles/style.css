@@ -12,6 +12,23 @@ body {
   background: #ffffff;
   overflow: hidden;
 }
+#gift {
+  text-align: center;
+  margin: 0 auto;
+}
+#gift-phrase {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 54px;
+  color: lightcoral;
+  margin-bottom: 24px;
+}
+#gift-link:link, #gift-link:visited,
+#gift-link:hover, #gift-link:active {
+  font-family: Helvetica, sans-serif;
+  color: rgba(55, 59, 65, 0.8);
+  font-size: 34px;
+  text-decoration: none;
+}
 .container {
   color: rgba(55, 59, 65, 0.8);
   font-family: Helvetica, sans-serif;
